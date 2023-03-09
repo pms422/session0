@@ -1,0 +1,40 @@
+img {
+    width: 400px;
+}
+mark1 {
+        color: rgb(0, 9, 16);
+    background-color: rgb(184, 255, 242);
+}
+li {
+    list-style: none;
+    font-size: 14px;
+    font-weight: 700;
+}
+.testclass1 {
+    font-size: 12px;
+}
+
+mark2 {
+    color:white;
+    background-color:deepskyblue;
+}
+
+mark3 {
+    color: orange;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.container{
+    background-color:aliceblue;
+    border-radius: 50px;
+    width: 90%;
+    margin-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.star{
+    width: 20px;
+    background-color:transparent
+}
